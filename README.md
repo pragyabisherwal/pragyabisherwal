@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragyabisherwal
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Django
 - 💞️ I’m building my problem solving abilities.
 - 📫 Want To Contact : pragyabisherwal@gmail.com
 
